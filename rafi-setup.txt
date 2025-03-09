@@ -1,0 +1,19 @@
+publisher:"Programmer Shri (Shrikant Dewangan)"
+
+
+C/C++ Snippets
+
+C/C++
+
+Auto Rename Tag
+
+
+C/C++AutoClosingTag
+
+
+Code Runner
+
+
+Prettier - Code formatter
+
+

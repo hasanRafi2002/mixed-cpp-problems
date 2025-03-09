@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "International Collegiate Programming Contest" << endl;
+    return 0;
+}
